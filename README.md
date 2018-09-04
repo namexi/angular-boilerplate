@@ -1,1 +1,1 @@
-# angular-boilerplate
+# Angular Boilerplate
